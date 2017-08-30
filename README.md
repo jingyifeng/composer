@@ -1,8 +1,9 @@
 # composer
 composer的学习
-#看一下再说吧
-这里只是一个测试的内容
-composer install
+## Composer常用命令
+composer update
+composer update-self
+
 
 # 这个是git测试内容
 git学习
